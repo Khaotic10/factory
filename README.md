@@ -1,3 +1,3 @@
 # factory
-my little factory
+my little factory,
 we use child labor
